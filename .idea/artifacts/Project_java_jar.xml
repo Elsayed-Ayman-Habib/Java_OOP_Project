@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project_java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project_java_jar</output-path>
+    <root id="archive" name="Project_java.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Project_java" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javafx-sdk-18.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16/javafx-fxml-16-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16/javafx-graphics-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/16/javafx-graphics-16-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/16/javafx-fxml-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16/javafx-base-16-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi/4.1.2/poi-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/16/javafx-base-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16/javafx-controls-16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.13/commons-codec-1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/16/javafx-controls-16-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
